@@ -215,16 +215,15 @@
     "@type": "AggregateRating",
     "ratingValue": 4.4,
     "reviewCount": 89
-  },
   "offers": {
-    "@type": "Offer",
-    "url": "https://mgs88-official.com/",
-    "priceCurrency": "USD",
-    "price": 119.99,
-    "priceValidUntil": "2026-11-20",
-    "itemCondition": "https://schema.org/NewCondition",
-    "availability": "https://schema.org/InStock"
-  }
+  "@type": "Offer",
+  "url": "https://mgs88-official.com/",
+  "priceCurrency": "USD",
+  "price": 119.99,
+  "priceValidUntil": "2026-11-20",
+  "itemCondition": "https://schema.org/NewCondition",
+  "availability": "https://schema.org/InStock"
+}
 }
 </script>
 </script> 
