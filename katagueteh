@@ -215,15 +215,16 @@
     "@type": "AggregateRating",
     "ratingValue": 4.4,
     "reviewCount": 89
+ },
   "offers": {
-  "@type": "Offer",
-  "url": "https://mgs88-official.com/",
-  "priceCurrency": "USD",
-  "price": 119.99,
-  "priceValidUntil": "2026-11-20",
-  "itemCondition": "https://schema.org/NewCondition",
-  "availability": "https://schema.org/InStock"
-}
+    "@type": "Offer",
+    "url": "https://turismofuentesdeandalucia.com/transporte-de-linea/",
+    "priceCurrency": "USD",
+    "price": "119.99",
+    "priceValidUntil": "2026-12-31",
+    "itemCondition": "https://schema.org/UsedCondition",
+    "availability": "https://schema.org/InStock"
+  }
 }
 </script>
 </script> 
